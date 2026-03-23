@@ -1,0 +1,2 @@
+### 3. Layout Principal avec SEO & JSON-LD (`app/layout.tsx`)
+Intégration des métadonnées OpenGraph et du balisage de données structurées `LocalBusiness` pour le référencement local.
